@@ -1,4 +1,4 @@
-# Monte Carlo Simulation Study: Evaluating QR, LQR, FLQR, and BFLQR
+# Monte Carlo Simulation Study: Evaluating LQR, FLQR, and BFLQR
 # Model Performance, Variable Selection, and Robustness to Outliers
 # Required packages
 
